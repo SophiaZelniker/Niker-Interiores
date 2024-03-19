@@ -214,3 +214,10 @@
     box-shadow: 0 4px rgba(0, 0, 0, 0.405);
   }
 
+  .proyectos {
+    animation: pulse 1s;  // Combine animation name and duration
+
+    .carousel-item {
+      animation: fadeInRight 2s;  // Nested styles for carousel-item
+    }
+  }

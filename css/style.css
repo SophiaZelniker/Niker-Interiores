@@ -204,3 +204,15 @@ footer a:hover {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.proyectos{
+ 
+
+  animation: pulse; 
+  animation-duration: 1s; 
+}
+
+.carousel-item{
+  animation: fadeInRight ;
+  animation-duration: 2s;
+}
